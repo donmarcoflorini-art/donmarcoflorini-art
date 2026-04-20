@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Nabil
 
-<!--
-**donmarcoflorini-art/donmarcoflorini-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end web designer and developer focused on building clean, modern, and responsive websites.
 
-Here are some ideas to get you started:
+## What I do
+- Build responsive websites
+- Create modern dashboard interfaces
+- Design clean UI layouts
+- Turn ideas into working front-end projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Project
+### Gym Dashboard
+A modern gym dashboard project built with HTML, CSS, and JavaScript.
+
+- **Live Demo:** https://donmarcoflorini-art.github.io/gym-dashboard/
+- **Repository:** https://github.com/donmarcoflorini-art/gym-dashboard
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Responsive Design
+- UI Layout Design
+- GitHub
+
+## Currently Working On
+- Building my front-end portfolio
+- Creating more real-world website projects
+
+## Contact
+- GitHub: https://github.com/donmarcoflorini-art
