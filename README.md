@@ -8,12 +8,19 @@ Front-end web designer and developer focused on building clean, modern, and resp
 - Design clean UI layouts
 - Turn ideas into working front-end projects
 
-## Featured Project
+## Featured Projects
+
 ### Gym Dashboard
 A modern gym dashboard project built with HTML, CSS, and JavaScript.
 
 - **Live Demo:** https://donmarcoflorini-art.github.io/gym-dashboard/
 - **Repository:** https://github.com/donmarcoflorini-art/gym-dashboard
+
+### Power Gym Site
+A responsive fitness website designed for a modern gym brand with a clean and professional front-end presentation.
+
+- **Live Demo:** https://donmarcoflorini-art.github.io/power-gym-site/
+- **Repository:** https://github.com/donmarcoflorini-art/power-gym-site
 
 ## Skills
 - HTML
