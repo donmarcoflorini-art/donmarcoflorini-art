@@ -24,6 +24,12 @@ A responsive fitness website for a modern gym brand.
 - **Live Demo:** https://donmarcoflorini-art.github.io/power-gym-site/
 - **Repository:** https://github.com/donmarcoflorini-art/power-gym-site
 
+### Nova Smile Clinic
+A modern cosmetic and restorative dental clinic website concept designed to present services clearly and build patient trust.
+
+- **Live Demo:** https://donmarcoflorini-art.github.io/nova-smile-clinic/
+- **Repository:** https://github.com/donmarcoflorini-art/nova-smile-clinic
+  
 ## Skills
 - HTML
 - CSS
