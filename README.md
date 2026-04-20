@@ -1,8 +1,10 @@
-# Hi, I'm Nabil
+# Nabil Quwatli
 
-Front-end web designer and developer focused on building clean, modern, and responsive websites.
+Front-End Web Designer & Developer
 
-## What I do
+I build clean, modern, and responsive websites using HTML, CSS, and JavaScript.
+
+## What I Do
 - Build responsive websites
 - Create modern dashboard interfaces
 - Design clean UI layouts
@@ -17,7 +19,7 @@ A modern gym dashboard project built with HTML, CSS, and JavaScript.
 - **Repository:** https://github.com/donmarcoflorini-art/gym-dashboard
 
 ### Power Gym Site
-A responsive fitness website designed for a modern gym brand with a clean and professional front-end presentation.
+A responsive fitness website for a modern gym brand.
 
 - **Live Demo:** https://donmarcoflorini-art.github.io/power-gym-site/
 - **Repository:** https://github.com/donmarcoflorini-art/power-gym-site
@@ -35,4 +37,5 @@ A responsive fitness website designed for a modern gym brand with a clean and pr
 - Creating more real-world website projects
 
 ## Contact
-- GitHub: https://github.com/donmarcoflorini-art
+- Available for freelance front-end projects
+- Portfolio website coming soon
