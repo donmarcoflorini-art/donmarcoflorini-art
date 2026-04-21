@@ -44,4 +44,5 @@ A modern cosmetic and restorative dental clinic website concept designed to pres
 
 ## Contact
 - Available for freelance front-end projects
-- Portfolio website coming soon
+- Portfolio: https://donmarcoflorini-art.github.io/
+- Email: nabil.quwatli@gmail.com
